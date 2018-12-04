@@ -1,0 +1,14 @@
+{
+  "gitbook": "3.x.x",
+  "plugins": [ "collapsible-menu" ],
+  "pluginsConfig": {
+    "fontSettings": {
+      "theme": "night"
+    }
+  },
+  "variables": {
+  },
+  "styles": {
+    "website": "styles/website.css"
+  }
+}
